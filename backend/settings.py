@@ -127,7 +127,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # CORS
 # ======================
 
-CORS_ALLOWED_ORIGINS = ["https://amstrong-blog.vercel.app"]
+CORS_ALLOWED_ORIGINS = ["https://boisterous-scone-0fa3f0.netlify.app"]
 
 
 CORS_ALLOW_CREDENTIALS = True
